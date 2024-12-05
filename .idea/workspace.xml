@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2334e7c-3cf2-422d-8af8-b31e1ded84a6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparing/COUNTRY HOUSE 2024.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparing/Compare.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparing/coun_sep-feb 2023.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/Article_10_10_24.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/Article_10_10_24.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,6 +63,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/project" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/comparing" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -73,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1732730694608</updated>
       <workItem from="1732730696358" duration="2567000" />
-      <workItem from="1732817096568" duration="860000" />
+      <workItem from="1732817096568" duration="1688000" />
+      <workItem from="1733419031927" duration="713000" />
     </task>
     <servers />
   </component>
